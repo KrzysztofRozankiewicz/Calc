@@ -10,6 +10,10 @@ namespace Calc
     {
         static void Main(string[] args)
         {
+            while (false)
+            {
+
+            }
         }
     }
 }
